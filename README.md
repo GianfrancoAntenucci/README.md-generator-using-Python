@@ -12,7 +12,7 @@ This Python script helps developers quickly generate a well-structured `README.m
 ## Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/GianfrancoAntenucci/README.md-generator-using-Python
 cd <your-repo-folder>
 
 # Create and activate a virtual environment
